@@ -67,9 +67,10 @@ With the median and mean being close to 3 times the diffrence with line and skil
 t.test(pushups~position,data=mydata)
 ```
 
-The p value is 9.421e^-06 which is lower than 0.05, which in turn would meam we would reject the null hypothesis.
+The p value is 9.421e6^-0 which is lower than 0.05, which in turn would meam we would reject the null hypothesis.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The question of is there a difference between the average number of push ups of line vs skill players, which we in turn have receive the data to answer. Do to our p value being 9.421e6^-0, which is less than 0.05, we in turn reject the null hypthosis and say there is a difference in the average number of pushups that line and skill players can do
